@@ -1,0 +1,505 @@
+.i-phone-17-1,
+.i-phone-17-1 * {
+  box-sizing: border-box;
+}
+.i-phone-17-1 {
+  background: #ebebe7;
+  height: 1965px;
+  position: relative;
+  overflow-y: auto;
+}
+.adolph-mulanga {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 40px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 34px;
+  top: 93px;
+  width: 365px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.tshivalo {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 55px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 26px;
+  top: 149px;
+  width: 365px;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.my-portfolio {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 23px;
+  width: 166px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.robotics-engineer {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 254px;
+  top: 58px;
+  width: 166px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.phone {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 11px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 33px;
+  top: 278px;
+  width: 166px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+._27-72-480-1821 {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 11px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 16px;
+  top: 292px;
+  width: 166px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.adolphusmulanga-723-gmail-com {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 11px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 169px;
+  top: 292px;
+  width: 380px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.email {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 11px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 187px;
+  top: 275px;
+  width: 166px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.aspiring-software-ai {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 12px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 249px;
+  top: 44px;
+  width: 166px;
+  height: 14px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.i-am-high-performing-computer-science-student-with-strong-problem-solving-skills-and-practical-development-experience-experience-building-real-world-applications-skilled-in-java-web-development-and-system-design-with-a-deep-interest-in-software-engineering-ai-robotics-driven-disciplined-and-focused-on-delivering-practical-solutions-that-work {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 11px;
+  line-height: 30px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 17px;
+  top: 407px;
+  width: 374px;
+  height: 144px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.about-me {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 16px;
+  top: 337px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.skills {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 32px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 22px;
+  top: 853px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.achievements-and-recognition {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 42px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 1076px;
+  width: 376px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.web-development-ui-ux-web-design-java-python-html {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 13px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 24px;
+  top: 877px;
+  width: 149px;
+  height: 222px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.css-java-script-ai-machine-learning-problem-solving-vibe-coding {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 15px;
+  line-height: 13px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 200px;
+  top: 824px;
+  width: 471px;
+  height: 289px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.top-academic-achiever-in-high-school-2020-2024-ranked-in-vhembe-top-200-learners-term-3-2024-2024-awarded-vhembe-district-bursary-for-academic-performance-2024-present-current-computer-science-student-with-a-74-percent-academic-average-2025-selected-participant-in-a-cybersecurity-hackathon-2025 {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 17px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 68px;
+  top: 1110px;
+  width: 351px;
+  height: 460px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.education {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 22px;
+  top: 617px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.high-school-tshikevha-christian-school-2024 {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 12px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 28px;
+  top: 624px;
+  width: 476px;
+  height: 186px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.high-school-tshikevha-christian-school-2024-span {
+  font-family: "Arial-Bold", sans-serif;
+  font-weight: 700;
+}
+.high-school-tshikevha-christian-school-2024-span2 {
+  font-family: "Arial-Regular", sans-serif;
+}
+.certifcations {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 97px;
+  top: 1491px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.grade-12-end-of-year-certificate-ranked-number-12-overall-cybersecurity-hackathon-certificate {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 17px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 30px;
+  top: 1466px;
+  width: 389px;
+  height: 191px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.image-1 {
+  width: 163px;
+  height: 128px;
+  position: absolute;
+  left: 240px;
+  top: 137px;
+  object-fit: cover;
+  aspect-ratio: 163/128;
+}
+.line-1 {
+  margin-top: -1px;
+  border-style: solid;
+  border-color: #b5282d;
+  border-width: 1px 0 0 0;
+  width: 191px;
+  height: 0px;
+  position: absolute;
+  left: 412px;
+  top: 265px;
+  transform-origin: 0 0;
+  transform: rotate(180deg) scale(1, 1);
+}
+.my-links {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 24px;
+  line-height: 35px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 135px;
+  top: 1610px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.https-github-com-adolph-mulangatshivalo-www-linkedin-com-in-adolph-mulanga-tshival-0 {
+  color: #000000;
+  text-align: left;
+  font-family: "Arial-Regular", sans-serif;
+  font-size: 12px;
+  line-height: 17px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 73px;
+  top: 1581px;
+  width: 389px;
+  height: 191px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.devicon-plain-linkedin {
+  width: 16px;
+  height: 16px;
+  position: absolute;
+  left: 52px;
+  top: 1682px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.mdi-github {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 48px;
+  top: 1645px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ic-baseline-email {
+  width: 18px;
+  height: 18px;
+  position: absolute;
+  left: 169px;
+  top: 272px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.ic-baseline-phone {
+  width: 17px;
+  height: 17px;
+  position: absolute;
+  left: 16px;
+  top: 275px;
+  overflow: visible;
+  aspect-ratio: 1;
+}
+.thank-you-for-visiting-my {
+  color: #b5282d;
+  text-align: left;
+  position: absolute;
+  left: 60px;
+  top: 1745px;
+  width: 295px;
+  height: 112px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.thank-you-for-visiting-my-span {
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 48px;
+  line-height: 48px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+.thank-you-for-visiting-my-span2 {
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 64px;
+  line-height: 48px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+.bachelor-s-degree-in-computer-science-university-of-venda-2025-present {
+  color: #000000;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 12px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  position: absolute;
+  left: 123px;
+  top: 680px;
+  width: 476px;
+  height: 186px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.bachelor-s-degree-in-computer-science-university-of-venda-2025-present-span {
+  font-family: "Arial-Bold", sans-serif;
+  font-weight: 700;
+}
+.bachelor-s-degree-in-computer-science-university-of-venda-2025-present-span2 {
+  font-family: "Arial-Regular", sans-serif;
+}
+.portfolio {
+  color: #b5282d;
+  text-align: left;
+  font-family: "Arial-Bold", sans-serif;
+  font-size: 64px;
+  line-height: 73px;
+  letter-spacing: -0.02em;
+  font-weight: 700;
+  position: absolute;
+  left: 28px;
+  top: 1856px;
+  width: 394px;
+  height: 109px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
